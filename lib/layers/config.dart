@@ -12,3 +12,11 @@ const Color signInBox = Color(0xFF024335);
 
 const Color hintText = Color(0xFFB4B4B4);
 const Color inputBorder = Color(0xFF707070);
+
+class Config {
+  static const Color hintText = Colors.grey;
+  static const Color forgotPasswordText = Colors.blue;
+  static const Color signInButton = Colors.green;
+  static const Color checkbox = Colors.blue;
+  static const Color signInBox = Colors.orange;
+}
